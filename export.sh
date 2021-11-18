@@ -1,8 +1,7 @@
 #!/bin/zsh
 
-mv ~/Website/staging/* ~/Website/rjwrobel.github.io/
+echo "Message: $1";
 
-cd $1
-git add -A
-git commit -m "Website update."
+git add .
+git commit -m Message
 git push origin main
