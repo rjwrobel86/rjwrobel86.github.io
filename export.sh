@@ -1,7 +1,7 @@
 #!/bin/zsh
 
-echo "Message: $1";
+
 
 git add .
-git commit -m Message
+git commit -m $1
 git push origin main
