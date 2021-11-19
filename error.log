@@ -1,12 +1,40 @@
 ----------
 
-Sun Nov 14 2021 19:41:34 GMT-0600 (Central Standard Time)
+Thu Nov 18 2021 12:51:21 GMT-0600 (Central Standard Time)
 
 Script /Users/robertwrobel/MyWebsite/rjwrobel86.github.io/export.sh couldn't be run
 
 ----------
 
-Thu Nov 18 2021 12:19:35 GMT-0600 (Central Standard Time)
+Thu Nov 18 2021 12:51:42 GMT-0600 (Central Standard Time)
 
-Script /Users/robertwrobel/MyWebsite/rjwrobel86.github.io/export.sh couldn't be run
+mv: /Users/robertwrobel/Website/rjwrobel.github.io/ is not a directory
+
+
+----------
+
+Thu Nov 18 2021 12:51:42 GMT-0600 (Central Standard Time)
+
+fatal: not a git repository (or any of the parent directories): .git
+
+
+----------
+
+Thu Nov 18 2021 12:51:42 GMT-0600 (Central Standard Time)
+
+fatal: not a git repository (or any of the parent directories): .git
+
+
+----------
+
+Thu Nov 18 2021 12:51:42 GMT-0600 (Central Standard Time)
+
+fatal: not a git repository (or any of the parent directories): .git
+
+
+----------
+
+Thu Nov 18 2021 21:32:47 GMT-0600 (Central Standard Time)
+
+Script /Users/robertwrobel/Website/export.sh couldn't be run
 
